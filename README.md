@@ -8,7 +8,6 @@ HTML5 version of the site. Do not use CSS just HTML, and build the site using HT
 avoid prebuild templates such as used by Wix etc.
 
 The site should contain as a minimum:
-
 • A Home Page containing general info about the club etc. with in-page links to other parts of the site
 
 • A News Page containing articles
