@@ -32,6 +32,7 @@ THRESHOLD (20% WEIGHTING)
 6. Demonstrates the use of attributes within HTML elements
 7. All pages are W3C validated
 8. Single member coding
+
 BETTER (10% WEIGHTING)
 1. Includes form elements with labels, grouping and simple (HTML) validation
 2. Tables are more sophisticated e.g. with headers and merged cells etc.
@@ -39,6 +40,7 @@ BETTER (10% WEIGHTING)
 4. Includes doctype definition and charset data
 5. Contains examples of HTML Encoding.
 6. Multiple team member coding.
+
 BEST (20% WEIGHTING)
 1. Includes pages which demonstrate the difference between traditional HTML layout (using divs)
 and the the HTML5 approach using the newer semantic layout elements such as sections and
