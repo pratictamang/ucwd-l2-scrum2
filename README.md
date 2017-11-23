@@ -23,7 +23,7 @@ The site should contain as a minimum:
 
 • An aside for tertiary content such as advertising
 
-
+----------------------------------------------------------------------------------
 
 THRESHOLD (20% WEIGHTING)
 
