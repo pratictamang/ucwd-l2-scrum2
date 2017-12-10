@@ -23,7 +23,7 @@ The site should contain as a minimum:
 
 • An aside for tertiary content such as advertising
 
-
+----------------------------------------------------------------------------------
 
 THRESHOLD (20% WEIGHTING)
 
@@ -74,3 +74,6 @@ articles etc.
 [ ] 4. Includes SEO (Search Engine Optimisation) techniques.
 
 [X] 5. Whole Team participation in coding the site. 
+
+Question:
+Folder for each page (example.com/activities) using index.html to clean up URLs. Relative paths for page specific things and absolute references for global things (logo setc.)
