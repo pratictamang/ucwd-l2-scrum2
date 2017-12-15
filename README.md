@@ -63,17 +63,14 @@ BETTER (10% WEIGHTING)
 
 BEST (20% WEIGHTING)
 
-[ ] 1. Includes pages which demonstrate the difference between traditional HTML layout (using divs)
+[X] 1. Includes pages which demonstrate the difference between traditional HTML layout (using divs)
 and the the HTML5 approach using the newer semantic layout elements such as sections and
 articles etc.
 
-[ ] 2. Ability to Draw a Dom tree of given HTML code (supplied by Product Owner)
+[X] 2. Ability to Draw a Dom tree of given HTML code (supplied by Product Owner)
 
-[ ] 3. Ability to Write HTML code based on a given DOM tree (supplied by Product Owner)
+[X] 3. Ability to Write HTML code based on a given DOM tree (supplied by Product Owner)
 
-[ ] 4. Includes SEO (Search Engine Optimisation) techniques.
+[X] 4. Includes SEO (Search Engine Optimisation) techniques.
 
 [X] 5. Whole Team participation in coding the site.
-
-Question:
-Folder for each page (example.com/activities) using index.html to clean up URLs. Relative paths for page specific things and absolute references for global things (logo setc.)
